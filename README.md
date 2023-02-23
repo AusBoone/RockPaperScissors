@@ -11,7 +11,7 @@ The game follows the classic rules of Rock Paper Scissors, with the user choosin
 If the user and the computer choose the same option, the game is considered a tie. The game keeps track of the user's score, the computer's score, and the high score.
 
 # Imports
-The game utilizes the random library to generate the computer's choice, and the os library to clear the command line screen between rounds.
+The game utilizes the 'random' library to generate the computer's choice, and the 'os' library to clear the command line screen between rounds.
 
 # How to Play/Run the Game
 - Download or clone the RockPaperScissors.py file from the repository.
